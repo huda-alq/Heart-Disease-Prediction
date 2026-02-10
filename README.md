@@ -51,12 +51,6 @@ The models were evaluated using standard performance metrics such as accuracy, p
 and confusion matrix. The results show that machine learning models can effectively assist in
 predicting heart disease based on patient data
 
-#Future Improvements:
-- Hyperparameter tuning
-- Cross-validation
-- Feature engineering
-- Trying advanced models such as XGBoost
-
 
 #Author:
 Huda Alquzah
