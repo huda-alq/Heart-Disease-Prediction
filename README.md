@@ -54,5 +54,5 @@ predicting heart disease based on patient data
 
 #Author:
 Huda Alquzah
-GitHub: https://github.com/huda-alq
-LinkedIn: https://www.linkedin.com/in/huda-alquzah-925b4a335/
+-GitHub: https://github.com/huda-alq
+-LinkedIn: https://www.linkedin.com/in/huda-alquzah-925b4a335/
