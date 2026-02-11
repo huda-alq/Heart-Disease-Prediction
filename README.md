@@ -52,7 +52,8 @@ and confusion matrix. The results show that machine learning models can effectiv
 predicting heart disease based on patient data
 
 
-##Author:
-Huda Alquzah
--GitHub: https://github.com/huda-alq
--LinkedIn: https://www.linkedin.com/in/huda-alquzah-925b4a335/
+## Author:
+- **Huda Alquzah**
+  - GitHub: [https://github.com/huda-alq](https://github.com/huda-alq)
+  - LinkedIn: [https://www.linkedin.com/in/huda-alquzah-925b4a335/](https://www.linkedin.com/in/huda-alquzah-925b4a335/)
+
